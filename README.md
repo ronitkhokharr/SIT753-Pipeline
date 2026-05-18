@@ -1,1 +1,1 @@
-# SIT753-Pipeline.
+# SIT753-Pipeline
